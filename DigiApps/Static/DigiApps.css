@@ -1,0 +1,19 @@
+#DefaultTemplate_FullPageContainer-container {
+    text-align: center;
+    width: 100vw;
+}
+
+#footer {
+    display: none;
+}
+
+.headertitle {
+    font-size: 20px;
+    font-weight: bold;
+    color: #F37520;
+}
+
+.control-container {
+    margin: 3px;
+    padding: 3px;
+}
